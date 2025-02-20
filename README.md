@@ -3,4 +3,3 @@
 - 🌱 I'm learning Artificial Intelligence
 - 💞️ I'm looking to work in the security sector
 - 😄 Pronouns: Senior Developer at Mojang Studio
-- ⚡ Fun fact: I'm 17 years old
